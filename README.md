@@ -1,18 +1,7 @@
-## Getting Started
+## Contador
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+### Desafio proposto pela DIO.
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+> Aqui foi exercitado a utilização de Condicionais (IF) e estrutura de Repetição (FOR) para realização de uma contagem com base na subtração de 2 números (Número 2 - número 1).
+> Para captura desses dois números foi utilizada a classe Scanner para captura de dados no terminal do usuário.
+> Também foi criado uma classe de Exceção manualmente para a criação da minha própria exceção em caso do número 1 ser maior que o número 2, o que daria um número negativo e não aceito pelo programa.
